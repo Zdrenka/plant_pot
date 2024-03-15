@@ -16,8 +16,8 @@
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 
-const char *ssid = "***REMOVED***";
-const char *password = "***REMOVED***";
+const char *ssid = "";
+const char *password = "";
 // Set web server port number to 80
 AsyncWebServer server(80);
 AsyncEventSource events("/events");
