@@ -1,6 +1,10 @@
 # Plant Pot
 
-This is an IoT project developed using an ESP32 module. It leverages the ESP32's Wi-Fi capabilities to serve a web page that displays the moisture level of a plant's soil in real-time. The project uses Server-Sent Events (SSE) to push updates from the ESP32 to a web client without the need for the client to refresh the page.
+This is an IoT project developed using an ESP32 module. It leverages the ESP32's Wi-Fi capabilities to serve a web page that displays the moisture level of a plant's soil in real-time. 
+
+<img width="523" alt="Screenshot 2024-03-15 at 17 44 09" src="https://github.com/Zdrenka/plant_pot/assets/2591040/6d33f653-16e7-478a-98d5-0dab8af44c53">
+
+The project uses Server-Sent Events (SSE) to push updates from the ESP32 to a web client without the need for the client to refresh the page.
 
 ## Features
 
